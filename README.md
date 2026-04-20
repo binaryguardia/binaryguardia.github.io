@@ -1,2 +1,2 @@
 # Banking-Frauds
-This repo contain a research about how banking frauds happens.
+This repo contains a research about how banking frauds happens.
